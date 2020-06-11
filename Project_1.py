@@ -1,3 +1,4 @@
+#Printing letters in pattern
 button = 'c'
 while button!='q':
     a = input("Enter the capital alphabet : ")
